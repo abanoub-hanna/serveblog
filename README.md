@@ -23,6 +23,13 @@ Goals in brief:
 - `/howto/` : howto guides n tutorials for the CMS
 - `/admin/` contains `edit.php`, `edit-comments.php`, `profile.php`, `tools.php`.
 
+## SnapCMS clients
+- Android App (Smartphone n Tablet)
+- iOS APP (iPhone n iPad)
+- Linux App (as Snap Package, appimage, ..)
+- Mac OS X App
+- Windows APP
+
 ## Scheduling Work (Plan)
 - I am analying the overall image, then schedule each part of development.
 
