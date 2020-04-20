@@ -15,10 +15,10 @@ ServeBlog gives great user experience for **blogger**, **reader** and **develope
 - autocompress : images lossless compression
 
 ## Scheduling Work (Plan)
-[x] UI / UX <sup>working</sup>
-[-] Markdown editor
-[-] markdown parsing
-[-] login / logout 
+- UI / UX <sup>working</sup>
+- Markdown editor
+- markdown parsing
+- login / logout 
 
 ## Used Libs & Apps
 - [ParseDown](https://github.com/erusev/parsedown): Markdown Parser in PHP.
