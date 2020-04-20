@@ -1,27 +1,18 @@
-# SnapCMS
-A Smart Content Management System for blogs.
+# ServeBlog
+A smart static site generator which is edited dynamically, yet served statically.
 
 ## Goals
-The goals of this SnapCMS is to be snappy with great user experience for modern content creators, developers, and readers.
+The goal of ServeBlog is to give great **UI**, **UX**, **performance** (speed), **SEO** and **feature-rich** experience at the same time.
 
-Goals in brief:
-- snappy & speed performance
-- distraction-free UI with simple but advanced when you need it
-- responsive/works perfectly on all screen sizes
-- cross platform with top notch performance (clients)
+ServeBlog gives great user experience for **blogger**, **reader** and **developer**.
 
-## Design Pattern & Concept of CMS
-- `index.php` : gallery view of articles
-- `login.php` : login session
-- `logout.php` : destroy session
-- `post.php` : use Markdown to edit content
-- `contact/index.php` : contact form
-- `privacy.php` : privacy policy
-- `about.php` : about website
-- `/category/cat1` : category URLs
-- `/admin/` : add or edit or publish content
-- `/howto/` : howto guides n tutorials for the CMS
-- `/admin/` contains `edit.php`, `edit-comments.php`, `profile.php`, `tools.php`.
+## Checklist
+- responsive design
+- beautiful UI
+- great UX w/ animations n transitions
+- markdown editor
+- related posts
+- autocompress : images lossless compression
 
 ## SnapCMS clients
 - Android App (Smartphone n Tablet)
