@@ -15,7 +15,7 @@ ServeBlog gives great user experience for **blogger**, **reader** and **develope
 - autocompress : images lossless compression
 
 ## Scheduling Work (Plan)
-- UI / UX <sup>working</sup>
+- UI / UX <sub color=red>working</sub>
 - Markdown editor
 - markdown parsing
 - login / logout 
